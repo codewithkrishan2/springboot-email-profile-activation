@@ -8,7 +8,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Database Setup](#database-setup)
 - [Configuration](#configuration)
